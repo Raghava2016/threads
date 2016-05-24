@@ -4,7 +4,7 @@
   <groupId>com.github.axet</groupId>
   <artifactId>threads</artifactId>
   <packaging>jar</packaging>
-  <version>0.0.14</version>
+  <version>0.0.14-SNAPSHOT</version>
   <name>threads</name>
   <description>threads java utils library</description>
   <url>https://github.com/axet/threads</url>
